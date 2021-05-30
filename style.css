@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+a {
+    border-style: none;
+    background-color: white;
+    border-radius: 50px;
+    padding: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
